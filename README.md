@@ -106,6 +106,7 @@ git push origin main
 |  182 | [Duplicate Emails](SQL/182-Duplicate-Emails/)                                                            | SQL           | Easy       | ✅ Solved |
 |  196 | [Delete Duplicate Emails](SQL/196-Delete-Duplicate-Emails/)                                              | SQL           | Easy       | ✅ Solved |
 |  217 | [Contains Duplicate](DSA/Hashing/217-Contains-Duplicate/)                                                | Hashing       | Easy       | ✅ Solved |
+|  238 | [Product of Array Except Self](DSA/Arrays/238-Product-of-Array-Except-Self/)                             | Arrays        | Medium     | ✅ Solved |
 |  242 | [Valid Anagram](DSA/Hashing/242-Valid-Anagram/)                                                          | Hashing       | Easy       | ✅ Solved |
 |  287 | [Find the Duplicate Number](DSA/Arrays/287-Find-the-Duplicate-Number/)                                   | Arrays        | Medium     | ✅ Solved |
 |  347 | [Top K Frequent Elements](DSA/Hashing/347-Top-K-Frequent-Elements/)                                      | Hashing       | Medium     | ✅ Solved |
@@ -117,9 +118,9 @@ git push origin main
 
 ## Stats
 
-* **DSA solved:** 13
+* **DSA solved:** 14
 * **SQL solved:** 6
-* **Total solved:** 19
+* **Total solved:** 20
 
 ## Topics Covered
 
