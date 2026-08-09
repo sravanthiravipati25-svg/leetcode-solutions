@@ -2,7 +2,7 @@
 
 **Link:** https://leetcode.com/problems/second-highest-salary/
 **Difficulty:** Medium
-**Date solved:** YYYY-MM-DD
+**Date solved:** 2026-08-06
 
 ## Problem
 
