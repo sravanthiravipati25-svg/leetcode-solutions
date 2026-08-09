@@ -3,7 +3,7 @@
 **Link:** https://leetcode.com/problems/two-sum/
 **Difficulty:** Easy
 **Topic:** Arrays / Hash Map
-**Date solved:** YYYY-MM-DD
+**Date solved:** 2026-08-06
 
 ## Problem
 
